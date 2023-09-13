@@ -1,0 +1,197 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+.step4 {
+    border-style: solid;
+    box-shadow: 1px 2px 5px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-color: rgb(255, 255, 255);
+    margin-top: 30px;
+    color: rgb(152, 152, 152);
+    font-size: 20px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+.step4 a {
+    color: rgb(114, 49, 189);
+}
+
+.step4:hover {
+    box-shadow: 1px 1px 6px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.step1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.step5 {
+    margin-right: 200px;
+    margin-left: 40px;
+}
+
+.step6 {
+    margin-right: 40px;
+    display: inline-block;
+}
+
+.step7 {
+    margin-left: 30px;
+    border-style: solid;
+    border-radius: 4px;
+    border-width: 2px;
+    border-color: rgb(114, 49, 189);
+
+    background-color: rgb(247, 247, 247);
+    font-size: 20px;
+}
+
+.step3 {
+    text-shadow: 0px 0px 1px;
+    margin-left: 30px;
+    font-weight: lighter;
+    font-size: 30px;
+    color: rgb(114, 49, 189);
+
+}
+
+.step9 {
+    display: inline-block;
+    font-size: 50px;
+    margin-top: 120px;
+}
+
+.step11 {
+    margin-left: 280px;
+    font-size: 20px;
+    margin-top: -20px;
+    color: rgb(95, 95, 95);
+}
+
+.step10 {
+    display: inline-block;
+    font-size: 50px;
+    margin-top: -40px;
+}
+
+.step12 {
+    margin-left: 285px;
+    font-size: 20px;
+    margin-top: -15px;
+    color: rgb(95, 95, 95);
+}
+
+.step13 {
+    margin-left: 290px;
+    font-size: 20px;
+    margin-top: -15px;
+    color: rgb(95, 95, 95);
+}
+
+.step14 p {
+    display: inline-block;
+}
+
+.step15 {
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    padding-left: 13px;
+    padding-right: 13px;
+    padding-top: 4px;
+    padding-bottom: 5px;
+    background-color: black;
+    color: rgb(233, 231, 231);
+    margin-left: 550px;
+}
+
+.step16 {
+    border-style: solid;
+    border-color: rgb(199, 199, 199);
+    border-radius: 5px;
+    padding-left: 13px;
+    padding-right: 13px;
+    padding-top: 4px;
+    padding-bottom: 5px;
+    background-color: rgb(199, 199, 199);
+    color: black;
+    margin-left: 10px;
+}
+
+.step17 p {
+    font-size: 30px;
+    margin-top: 150px;
+    margin-left: 515px;
+}
+
+.step19 {
+    font-size: 30px;
+    margin-top: 150px;
+    margin-left: 590px;
+}
+
+.step20 {
+    display: inline-block;
+    margin-top: 40px;
+
+}
+
+.step29 {
+    margin-left: 300px;
+    border-style: solid;
+    border-color: rgb(231, 231, 231);
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 1px;
+    padding-bottom: 30px;
+    background-color: rgb(231, 231, 231);
+    color: rgb(99, 99, 99);
+}
+
+.step28 {
+    margin-left: 55px;
+    border-style: solid;
+    border-color: rgb(231, 231, 231);
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 1px;
+    padding-bottom: 30px;
+    background-color: rgb(231, 231, 231);
+    color: rgb(99, 99, 99);
+
+}
+
+.step22 {
+    margin-left: 20px;
+}
+
+.step27 {
+    margin-left: 20px;
+}
+
+.step23 p {
+    display: inline-block;
+    margin-top: 30px;
+}
+
+.step24 {
+    font-size: 22px;
+    margin-left: 430px;
+}
+
+.step26 {
+    font-size: 30px;
+    font-weight: lighter;
+    color: rgb(231, 231, 231);
+}
+
+.step30 {
+    color: rgb(154, 154, 154);
+}
